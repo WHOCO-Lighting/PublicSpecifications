@@ -1,0 +1,48 @@
+{
+    "text": "Installer Requirements",
+    "A": {
+       "text": "A: The installer must",
+       "h1": {
+          "text": "1. Do the thing"
+       },
+       "h2": {
+          "text": "2. And this thing",
+          "a": {
+             "text": "a. Here's info about thing 2"
+          },
+          "b": {
+             "text": "b. and another thing about thing 2"
+          }
+       }
+    },
+    "B": {
+       "text": "B: They must have these certs",
+       "h1": {
+          "text": "1. ANSI"
+       },
+       "h2": {
+          "text": "2. USITT",
+          "a": {
+             "text": "a. USITT-Cert123",
+             "h1": {
+                "text": "1) For at least 3 years"
+             },
+             "h2": {
+                "text": "2) Not expiring in less than 60 days."
+             }
+          },
+          "b": {
+             "text": "a. USITT-Cert456",
+             "h1": {
+                "text": "1) For at least 5 years"
+             },
+             "h2": {
+                "text": "2) Not expiring in less than 180 days."
+             }
+          }
+       },
+       "h3": {
+          "text": "3. ASME"
+       }
+    }
+ }
